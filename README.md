@@ -6,7 +6,7 @@ When you start the utility, you are prompted to select the
 language you need and enter its key; it is written next to the language.  
   
 example:  
-english - eng
+english - en
 
 ## Regarding the development:
 Since the project is open‑source, you can freely take the code and edit it,  
